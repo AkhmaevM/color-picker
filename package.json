@@ -8,12 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AkhmaevM/colors.git"
+    "url": "git+https://github.com/AkhmaevM/color-picker.git"
   },
   "author": "Magomed Akhmaev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AkhmaevM/colors/issues"
+    "url": "https://github.com/AkhmaevM/color-picker/issues"
   },
-  "homepage": "https://github.com/AkhmaevM/colors#readme"
+  "homepage": "https://github.com/AkhmaevM/color-picker#readme",
+  "dependencies": {
+    "chroma-js": "^2.4.2"
+  }
 }

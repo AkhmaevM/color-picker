@@ -11,11 +11,7 @@ body{
 }
 
 .col{
-    //temporary solution
-    border: 1px solid black;
-
     flex: 1;
-    background-color: darkred;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
